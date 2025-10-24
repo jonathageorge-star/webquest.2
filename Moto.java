@@ -1,4 +1,4 @@
-//grupo: Cleverton Kauan Calista da Silva, Jonatha George do Nascimento, Paulo Marcelo Cordeiro de Jesus
+//grupo: Jonatha George do Nascimento, Paulo Marcelo Cordeiro de Jesus, Cleverton Kauan Calista da Silva
 public class Moto extends Veiculo {
     private int cilindradas;
 
